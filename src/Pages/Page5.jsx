@@ -9,7 +9,7 @@ const Page5 = () => {
 
         <>
         <div className='relative'>
-        <div className=' h-full  bg-[url(src/public/images/outrow-img.png)]  bg-contain bg-fixed'>
+        <div className=' h-full  bg-[url(/images/outrow-img.png)]  bg-contain bg-fixed'>
             <div className='pageReveal h-screen w-screen'></div>
         </div>      
         </div>
