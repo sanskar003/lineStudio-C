@@ -1,3 +1,8 @@
+## 🔗 Live Demo
+
+👉 [View the project on Vercel] (https://lineproject-tan.vercel.app/)
+
+
 # 🎨 Line Studio C
 
 Line Studio C is a strictly design-driven web experience built with React, Tailwind CSS, and GSAP. It showcases a series of animated visual sections with scroll-based transitions, emphasizing layout, typography, and motion — without any backend or interactive functionality.
