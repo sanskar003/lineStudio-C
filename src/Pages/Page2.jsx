@@ -177,7 +177,7 @@ const Page2 = () => {
               loop
               muted
               className="w-full h-auto max-h-[70vh] object-cover"
-              src="src/assects/pageEffect-vid-01.mp4"
+              src="src/public/pageEffect-vid-01.mp4"
             />
           </div>
         </div>
@@ -202,7 +202,7 @@ const Page2 = () => {
               loop
               muted
               className="w-full h-auto max-h-[70vh] object-cover"
-              src="src/assects/pageEffect-vid-02.mp4"
+              src="src/public/pageEffect-vid-02.mp4"
             />
           </div>
         </div>
@@ -227,7 +227,7 @@ const Page2 = () => {
               loop
               muted
               className="w-full h-auto max-h-[70vh] object-cover"
-              src="src/assects/pageEffext-vid-03.mp4"
+              src="src/public/pageEffext-vid-03.mp4"
             />
           </div>
         </div>
@@ -247,12 +247,12 @@ const Page2 = () => {
           <div className="relative w-full lg:w-1/2 p-4">
             <img
               className="w-full max-w-[90%] h-auto mx-auto rotate-[5deg]"
-              src="src/assects/images/Seaction-img-two.avif"
+              src="src/public/images/Seaction-img-two.avif"
               alt="Studio Image 2"
             />
             <img
               className="absolute w-full max-w-[90%] h-auto top-24 left-0"
-              src="src/assects/images/Seacion-img-one.avif"
+              src="src/public/images/Seacion-img-one.avif"
               alt="Studio Image 1"
             />
           </div>
